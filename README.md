@@ -23,7 +23,7 @@ Users can browse movies and add or remove their favorite movies.
 ---
 
 ## Environment Variables
-Create a `.env` file in the root directory and add:
+Create a `api.js` file in the root directory and add:
 
-```env
-REACT_APP_TMDB_API_KEY=your_tmdb_api_key
+```replace api key in the file `api.js`
+API_KEY=your_tmdb_api_key
